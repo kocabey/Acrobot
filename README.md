@@ -5,6 +5,6 @@ The Acrobot is an underactuated system with two links and resembles a human acro
 <br><br><br>
 
 <p align="center">
-  ![](acrobot.gif) <br>
+  <img src="acrobot.gif"> <br>
   Trained Agent
 </p>
